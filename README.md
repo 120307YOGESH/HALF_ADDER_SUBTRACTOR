@@ -74,6 +74,7 @@ Developed by: S.YOGESH
 RegisterNumber:*/24001573
 
 **RTL Schematic**
+
 HALF ADDER 
 
 ![image](https://github.com/user-attachments/assets/1b6d6312-c379-44ec-b8b2-06a55d3d165a)

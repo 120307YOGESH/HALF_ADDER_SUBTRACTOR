@@ -75,9 +75,11 @@ RegisterNumber:*/24001573
 
 **RTL Schematic**
 HALF ADDER 
+
 ![image](https://github.com/user-attachments/assets/1b6d6312-c379-44ec-b8b2-06a55d3d165a)
 
 HALF SUBRACTOR
+
 ![image](https://github.com/user-attachments/assets/8c474ff3-b1b6-44ae-ad06-63904e16cd0d)
 
 
